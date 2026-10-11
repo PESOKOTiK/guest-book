@@ -1,0 +1,4 @@
+app/web/CommentDao.class
+app/web/AppInit.class
+app/web/CommentsServlet.class
+app/web/Db.class
